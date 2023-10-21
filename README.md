@@ -1,2 +1,2 @@
 # Finance-projects
-Shivji here. Here are python implementations of various concepts I learned through FRM curriculum and other sources. Hope you find it helpful.
+I learned these concepts of Risk Analysis, Trading and Quant Research through FRM curriculum and other sources.To learn about them in a deeper sense and implement them in Python coding, I did the following projects.
